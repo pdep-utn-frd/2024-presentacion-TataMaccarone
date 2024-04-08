@@ -1,10 +1,8 @@
-# presentacion-
+# Presentacion
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+  Me llamo Nicolas, tengo 21 años y soy de Pilar.
+-Nunca programe fuera de algoritmos pero estoy haciendo un curso de python ahora.
+-Mis hobbies son el gimnasio, historia, BJJ, Muay Thai, e idiomas.
+-En esta materia espero aprender mas sobre lenguajes de programacion menos comunes.
 
-Ya saben usar git!
+Ya se usar git!
